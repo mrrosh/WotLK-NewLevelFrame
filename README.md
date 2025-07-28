@@ -12,6 +12,6 @@ https://github.com/user-attachments/assets/c84f4997-e770-4bf2-8f36-6b72ed40e876
 
 
 ## How to install
-- Download [THIS](hhttps://github.com/mrrosh/WotLK-NewLevelFrame/archive/refs/heads/master.zip) archive;  
+- Download [THIS](https://github.com/mrrosh/WotLK-NewLevelFrame/archive/refs/heads/main.zip) archive;  
 - Extract `WotLK-NewLevelFrame` folder to your `Interface/AddOns` folder;  
 - Enjoy!  
